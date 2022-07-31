@@ -1,2 +1,2 @@
 # CloudComputing
-DATS 6450 Project
+a distributed analysis tool on AWS
